@@ -1,0 +1,26 @@
+
+.search {
+    display: flex;
+    align-items: center;
+}
+
+.searchInput {
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    height: 50px;
+    width: 600px;
+    padding-left: 15px;
+}
+
+.searchButton {
+    border: none;
+    outline: none;
+    border-radius: 7px;
+    cursor: pointer;
+    height: 26px;
+    width: 26px;
+    background: url(/src/assets/image/icons/search.svg) no-repeat 0 50%;
+    position: absolute;
+    margin-left: 565px;
+}

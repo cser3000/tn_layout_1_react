@@ -1,0 +1,95 @@
+
+.infoBoxes {
+    display: flex;
+    gap: 20px;
+    padding-inline: 20px;
+    flex-wrap: wrap;
+    margin-top: 40px;
+}
+
+.infoBox1, .infoBox2, .infoBox3,
+.infoBox4, .infoBox5 {
+    position: relative;
+    display: block;
+    border-radius: 10px;
+    background: #F2F7FC;
+    opacity: 0.8;
+    height: 200px;
+}
+
+.infoBox1, .infoBox3 {
+    width: 282px;
+}
+
+.infoBox2 {
+    width: 281px;
+}
+
+.infoBox4 {
+    width: 508px;
+}
+
+.infoBox5 {
+    width: 357px;
+}
+
+.infoBoxSizeText1 {
+    font-size: 24px;
+    font-weight: 700;
+    color: #315B7C;
+    padding-top: 20px;
+    padding-left: 20px;
+    margin: 0;
+}
+
+.infoBoxSizeText2 {
+    font-size: 16px;
+    color: #121212;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 30px;
+    margin: 0;
+    line-height: 24px;
+    font-weight: 400;
+}
+
+.moreInfo {
+    display: inline-block;
+    color: #315B7C;
+    position: absolute;
+    right: 60px;
+    bottom: 20px;
+    opacity: 0;
+    transition: 0.5s;
+}
+
+.infoBox1:hover .moreInfo {
+    opacity: 1;
+    transition: 0.5s;
+}
+
+.infoBox2:hover .moreInfo {
+    opacity: 1;
+    transition: 0.5s;
+}
+
+.infoBox3:hover .moreInfo {
+    opacity: 1;
+    transition: 0.5s;
+}
+
+.infoBox4:hover .moreInfo {
+    opacity: 1;
+    transition: 0.5s;
+}
+
+.infoBox5:hover .moreInfo {
+    opacity: 1;
+    transition: 0.5s;
+}
+
+.buildIcon {
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+}

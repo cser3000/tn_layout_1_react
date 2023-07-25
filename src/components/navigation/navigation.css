@@ -1,0 +1,100 @@
+
+.navigation {
+    margin-left: 10px;
+}
+
+.navigation ul {
+    padding: 0;
+}
+
+
+.elemNav {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.homeLetter, .iconStaging, .iconListUl,
+.iconBooks, .iconBoxContainer, .iconBellOn,
+.iconUsers {
+    color: #315B7C;
+    font-size: 16px;
+    height: 46px;
+    width: 230px;
+    display: inline-block;
+    padding-left: 55px;
+}
+
+.homeLetter:hover, .iconStaging:hover, .iconListUl:hover,
+.iconBooks:hover, .iconBoxContainer:hover, .iconBellOn:hover,
+.iconUsers:hover {
+    color: #FFFFFF;
+    background-color:  #7E9AB0;
+    border-radius: 7px;
+}
+
+.homeLetter {
+    background: url(/src/assets/image/icons/homeletter-red.svg) no-repeat 10px 50%;
+}
+
+.homeLetter:hover {
+    background: url(/src/assets/image/icons/homeletter-white.svg) no-repeat 10px 50%,  #7E9AB0;
+}
+
+.iconStaging {
+    background: url(/src/assets/image/icons/staging-red.svg) no-repeat 10px 50%;
+}
+
+.iconStaging:hover {
+    background: url(/src/assets/image/icons/staging-white.svg) no-repeat 10px 50%,  #7E9AB0;
+}
+
+.iconListUl {
+    background: url(/src/assets/image/icons/list-ul-red.svg) no-repeat 10px 50%;
+}
+
+.iconListUl:hover {
+    background: url(/src/assets/image/icons/list-ul-white.svg) no-repeat 10px 50%,  #7E9AB0;
+}
+
+.iconBooks {
+    background: url(/src/assets/image/icons/books-red.svg) no-repeat 10px 50%;
+}
+
+.iconBooks:hover {
+    background: url(/src/assets/image/icons/books-white.svg) no-repeat 10px 50%,  #7E9AB0;
+}
+
+.iconBoxContainer {
+    background: url(/src/assets/image/icons/box-container-red.svg) no-repeat 10px 50%;
+}
+
+.iconBoxContainer:hover {
+    background: url(/src/assets/image/icons/box-container-white.svg) no-repeat 10px 50%,  #7E9AB0;
+}
+
+.iconBellOn {
+    background: url(/src/assets/image/icons/bell-on-red.svg) no-repeat 10px 50%;
+}
+
+.iconBellOn:hover {
+    background: url(/src/assets/image/icons/bell-on-white.svg) no-repeat 10px 50%,  #7E9AB0;
+}
+
+.iconUsers {
+    background: url(/src/assets/image/icons/users-red.svg) no-repeat 10px 50%;
+}
+
+.iconUsers:hover {
+    background: url(/src/assets/image/icons/users-white.svg) no-repeat 10px 50%,  #7E9AB0;
+}
+
+.linkText {
+    display: inline-block;
+    height: 24px;
+    font-size: 16px;
+    margin-top: 16px;
+    font-weight: 500;
+}

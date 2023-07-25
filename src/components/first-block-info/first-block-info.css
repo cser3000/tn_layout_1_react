@@ -1,0 +1,36 @@
+
+.blockInfo1 {
+    padding-top: 135px;
+    padding-left: 80px;
+}
+
+.sizeTextInfo1 {
+    font-size: 54px;
+    margin-bottom: 20px;
+    font-weight: 700;
+}
+
+.sizeTextInfo2 {
+    font-size: 24px;
+    margin: 0;
+    font-weight: 700;
+    line-height: 30px;
+}
+
+.sizeTextInfo3 {
+    font-size: 16px;
+    margin: 0;
+    font-weight: 500;
+    line-height: 24px;
+}
+
+.redButton {
+    color: #FFFFFF;
+    background-color: #FF5561;
+    border-radius: 10px;
+    border: none;
+    height: 40px;
+    width: 190px;
+    cursor: pointer;
+    margin-top: 40px;
+}

@@ -1,0 +1,23 @@
+.blockInfo4 {
+    padding-top: 80px;
+    padding-left: 80px;
+    padding-right: 330px;
+}
+
+
+.sizeTextInfo4 {
+    font-size: 54px;
+    margin-bottom: 20px;
+    font-weight: 700;
+}
+
+.listBlock4 {
+    padding-left: 15px;
+    list-style-type: square;
+    padding-right: 100px;
+}
+
+.elemListBlock4 {
+    font-size: 16px;
+    line-height: 24px;
+}

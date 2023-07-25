@@ -1,0 +1,17 @@
+
+.mainInfo {
+    width: 925px;
+    color: white;
+    border-radius: 10px;
+    background: #232328;
+}
+
+.background1 {
+    border-radius: 10px;
+    background: linear-gradient(180deg, rgba(49, 91, 124, 0.02) 35%, #222328 100%), url("/src/assets/image/trail-b3u6NeaiGkA-unsplash 1.png") no-repeat 0 0;
+}
+
+.background2 {
+    border-radius: 10px;
+    background: #232328;
+}

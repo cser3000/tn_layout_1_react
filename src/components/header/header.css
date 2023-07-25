@@ -1,0 +1,9 @@
+
+.myHeader {
+    padding-left: 315px;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    position: relative;
+    gap: 20px;
+}
