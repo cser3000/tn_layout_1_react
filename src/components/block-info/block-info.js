@@ -1,10 +1,7 @@
 import './block-info.css';
 
 function BlockInfo(props) {
-    let clnm = 'blockInfoLeft';
-    if (props.lr === 'r') {
-        clnm = 'blockInfoRight'
-    }
+    let clnm = props.lr === 'r' ? 'blockInfoRight' : 'blockInfoLeft';
     return (
         <section className={clnm}>
             <h1 className="sizeTextInfo1">{props.t1}</h1>

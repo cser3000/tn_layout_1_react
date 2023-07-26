@@ -1,0 +1,24 @@
+
+.usersContent {
+    display: flex;
+    align-items: center;
+    gap: 80px;
+    margin-top: 40px;
+}
+
+.usersPhoto {
+    display: block;
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+}
+
+.icon1 {
+    margin-top: 20px;
+    margin-left: 5px;
+}
+
+.icon2 {
+    margin-top: 20px;
+    margin-left: 15px;
+}

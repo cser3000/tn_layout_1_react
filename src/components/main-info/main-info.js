@@ -1,10 +1,5 @@
 import './main-info.css';
 
-import buildLeadershipAndCulture from "../../assets/image/icons/build-leadership-and-culture.svg";
-import myImage from "../../assets/image/image 242.png";
-import bxlMicrosoftTeams from "../../assets/image/icons/bxl_microsoft-teams.svg";
-import vscodeIconsFileTypeOutlook from "../../assets/image/icons/vscode-icons_file-type-outlook.svg";
-
 import FirstBlockInfo from "../first-block-info/first-block-info";
 import BlockInfo from "../block-info";
 import LastBlockInfo from "../last-block-info";

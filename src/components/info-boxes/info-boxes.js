@@ -1,6 +1,5 @@
 import './info-boxes.css';
 
-import buildLeadershipAndCulture from "../../assets/image/icons/build-leadership-and-culture.svg";
 import InfoBox from "../info-box";
 
 function InfoBoxes() {
